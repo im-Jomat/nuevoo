@@ -1,1 +1,1 @@
-Esta es la primer version de este segundo archivo
+segunda version del segundo archivo
